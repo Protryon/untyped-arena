@@ -1,0 +1,11 @@
+[package]
+name = "untyped-arena"
+version = "0.1.0"
+edition = "2021"
+authors = ["Maxwell Bruce <max.bruce12@gmail.com>"]
+license = "MIT"
+repository = "https://github.com/Protryon/untyped-arena"
+description = "untyped-arena provides an Arena allocator implementation that is safe and untyped with minimal complexity"
+keywords = [ "arena", "alloc" ]
+
+[dependencies]
